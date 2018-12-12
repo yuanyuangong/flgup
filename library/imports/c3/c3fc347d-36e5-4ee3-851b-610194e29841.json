@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bengpao",
+    "texture": "858106bb-5ea0-4270-afc6-ae3c5f159567",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      386,
+      386
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      386,
+      386
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

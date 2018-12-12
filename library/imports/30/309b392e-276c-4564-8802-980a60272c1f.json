@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xin3",
+    "texture": "430e9ee5-d28d-439e-b3ba-b2538910fc1b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      35,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      35,
+      30
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

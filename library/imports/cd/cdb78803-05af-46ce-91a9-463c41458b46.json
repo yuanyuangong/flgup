@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "图层 30",
+    "texture": "3b068ac8-07c5-400d-b79b-751d22373a9c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      177,
+      142
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      177,
+      142
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

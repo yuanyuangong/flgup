@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "guanbi",
+    "texture": "9025879b-8d8e-4c9d-9a03-0283a6873c5b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      52,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      52,
+      48
+    ],
+    "capInsets": [
+      1,
+      0,
+      0,
+      48
+    ]
+  }
+}

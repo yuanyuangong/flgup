@@ -1,0 +1,58 @@
+2018-12-12T03:14:11.290Z - normal: Load ~/.CocosCreator/settings.json
+2018-12-12T03:14:11.294Z - normal: checking language setting...
+2018-12-12T03:14:11.294Z - normal: Language: zh
+2018-12-12T03:14:11.935Z - success: protocol editor-framework registered
+2018-12-12T03:14:11.936Z - success: protocol app registered
+2018-12-12T03:14:11.936Z - success: protocol theme registered
+2018-12-12T03:14:11.936Z - success: protocol packages registered
+2018-12-12T03:14:11.936Z - success: protocol unpack registerred
+2018-12-12T03:14:11.937Z - success: protocol disable-commonjs registerred
+2018-12-12T03:14:12.184Z - normal: connected!
+2018-12-12T03:14:12.188Z - normal: Check project /Users/gyy/Documents/GitHub/flgup
+2018-12-12T03:14:12.191Z - normal: Initializing project /Users/gyy/Documents/GitHub/flgup
+2018-12-12T03:14:12.194Z - normal: Initializing Cocos2d
+2018-12-12T03:14:14.332Z - normal: Initializing Asset Database
+2018-12-12T03:14:14.494Z - success: protocol uuid registerred
+2018-12-12T03:14:14.494Z - success: protocol db registerred
+2018-12-12T03:14:14.494Z - success: protocol thumbnail registerred
+2018-12-12T03:14:14.495Z - normal: Loading editor/builtin packages
+2018-12-12T03:14:14.874Z - success: assets loaded
+2018-12-12T03:14:14.886Z - success: builder loaded
+2018-12-12T03:14:14.888Z - success: cocos-analytics loaded
+2018-12-12T03:14:15.003Z - success: console loaded
+2018-12-12T03:14:15.147Z - success: fb-instant-games loaded
+2018-12-12T03:14:15.149Z - success: google-instant-games loaded
+2018-12-12T03:14:15.266Z - success: hierarchy loaded
+2018-12-12T03:14:15.279Z - success: inspector loaded
+2018-12-12T03:14:15.281Z - success: keystore loaded
+2018-12-12T03:14:15.296Z - success: node-library loaded
+2018-12-12T03:14:15.298Z - success: package-asset loaded
+2018-12-12T03:14:15.331Z - success: preferences loaded
+2018-12-12T03:14:15.341Z - success: project-exporter loaded
+2018-12-12T03:14:15.403Z - success: project-importer loaded
+2018-12-12T03:14:15.413Z - success: project-settings loaded
+2018-12-12T03:14:15.423Z - success: ui-kit loaded
+2018-12-12T03:14:15.435Z - success: scene loaded
+2018-12-12T03:14:15.458Z - success: sprite-editor loaded
+2018-12-12T03:14:15.471Z - success: store loaded
+2018-12-12T03:14:15.585Z - success: timeline loaded
+2018-12-12T03:14:15.585Z - normal: Loading builtin packages
+2018-12-12T03:14:15.599Z - success: asset-db-debugger loaded
+2018-12-12T03:14:15.600Z - success: color-picker loaded
+2018-12-12T03:14:16.300Z - success: google-play-instant loaded
+2018-12-12T03:14:16.301Z - success: jsb-adapter loaded
+2018-12-12T03:14:16.306Z - success: oppo-runtime loaded
+2018-12-12T03:14:16.318Z - success: package-manager loaded
+2018-12-12T03:14:16.797Z - success: qqplay-adapter loaded
+2018-12-12T03:14:16.808Z - success: sdkbox loaded
+2018-12-12T03:14:16.820Z - success: tester loaded
+2018-12-12T03:14:16.843Z - success: ui-grid loaded
+2018-12-12T03:14:16.860Z - success: ui-kit-preview-extra loaded
+2018-12-12T03:14:16.876Z - success: ui-kit-preview loaded
+2018-12-12T03:14:16.891Z - success: ui-tree loaded
+2018-12-12T03:14:16.894Z - success: vivo-runtime loaded
+2018-12-12T03:14:16.895Z - success: weapp-adapter loaded
+2018-12-12T03:14:19.438Z - normal: Loading packages
+2018-12-12T03:14:19.449Z - normal: Watching packages
+2018-12-12T03:14:19.533Z - normal: Run Application
+2018-12-12T03:14:20.688Z - success: preview server running at http://localhost:7456

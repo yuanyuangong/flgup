@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dongfu",
+    "texture": "aa882d6f-cc70-4cba-b0cd-2b64e317bf32",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      750,
+      366
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      750,
+      366
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
