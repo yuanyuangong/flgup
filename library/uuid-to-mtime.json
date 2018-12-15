@@ -249,19 +249,14 @@
     "meta": 1543124790011,
     "relativePath": "png"
   },
-  "955d4254-4e0f-4cf2-aaaa-1c242a58c127": {
-    "asset": 1543124856036,
-    "meta": 1543124856128,
-    "relativePath": "png/组 74.png"
-  },
   "7b2a4b2d-f751-4e49-b9c3-83a75aefd4a7": {
     "asset": 1544498194614,
     "meta": 1543125559494,
     "relativePath": "scanes"
   },
   "2f1b07d7-ad9d-4003-b7a9-da80eefc250c": {
-    "asset": 1544408994583,
-    "meta": 1544408994623,
+    "asset": 1544768854562,
+    "meta": 1544768854603,
     "relativePath": "scanes/fly.fire"
   },
   "818c3f33-7820-452b-b97e-91bdeeb10339": {
@@ -310,8 +305,8 @@
     "relativePath": "components/progress.prefab"
   },
   "1451a54c-b9e3-495c-9f84-b2aca6266d6d": {
-    "asset": 1544503588344,
-    "meta": 1544503588431,
+    "asset": 1544683762846,
+    "meta": 1544683762921,
     "relativePath": "scanes/view.fire"
   },
   "5fdd47c9-6a07-411e-8cc0-f403d528e3e9": {
@@ -515,8 +510,8 @@
     "relativePath": "script/GameController.ts"
   },
   "851ab002-6ec6-4d59-864b-8368f352dec1": {
-    "asset": 1544504114361,
-    "meta": 1544504114420,
+    "asset": 1544683549611,
+    "meta": 1544683549642,
     "relativePath": "scanes/view1.fire"
   },
   "aa882d6f-cc70-4cba-b0cd-2b64e317bf32": {
@@ -538,5 +533,65 @@
     "asset": 1544503576845,
     "meta": 1544503585184,
     "relativePath": "components/wuping.prefab"
+  },
+  "14bab96e-5262-41e8-897a-6460c71910b1": {
+    "asset": 1544757918068,
+    "meta": 1544757920682,
+    "relativePath": "png/logo1.png"
+  },
+  "955d4254-4e0f-4cf2-aaaa-1c242a58c127": {
+    "asset": 1544757904100,
+    "meta": 1544757920750,
+    "relativePath": "png/组 74.png"
+  },
+  "dd3ed41f-2125-4f0b-ab33-50dfcea00670": {
+    "asset": 1544758299656,
+    "meta": 1544758323410,
+    "relativePath": "png/button1.png"
+  },
+  "e8f14545-bad3-44d2-b172-2f794293b425": {
+    "asset": 1544758322116,
+    "meta": 1544758323413,
+    "relativePath": "png/button2.png"
+  },
+  "dd593cfa-2157-40b5-a1ae-52e42e68f2b9": {
+    "asset": 1544758531219,
+    "meta": 1544758538928,
+    "relativePath": "png/button2_c.png"
+  },
+  "893a674a-796c-459b-b7ce-62b230134d83": {
+    "asset": 1544758469310,
+    "meta": 1544758538930,
+    "relativePath": "png/button1_c.png"
+  },
+  "692b482b-b61b-4844-a73f-1ce00d3c19ad": {
+    "asset": 1544758621770,
+    "meta": 1544758622237,
+    "relativePath": "png/back1.png"
+  },
+  "984e49d0-e546-44fb-a430-307b2eaabc22": {
+    "asset": 1402280788000,
+    "meta": 1544758767104,
+    "relativePath": "font/经典行书简.TTF"
+  },
+  "ce4c5644-faee-474e-8a22-721a2f45a129": {
+    "asset": 1300683302000,
+    "meta": 1544758767107,
+    "relativePath": "font/说明.htm"
+  },
+  "8f2cf84a-576f-4e66-af7b-607f6ca04493": {
+    "asset": 1544758961967,
+    "meta": 1544758962507,
+    "relativePath": "png/button3.png"
+  },
+  "702578bd-257a-4645-8c29-81a519c279ee": {
+    "asset": 1544768189606,
+    "meta": 1544768189764,
+    "relativePath": "png/back.png"
+  },
+  "dba12061-6dec-432e-8d0c-59b47626b979": {
+    "asset": 1544768673828,
+    "meta": 1544768676004,
+    "relativePath": "png/button4.png"
   }
 }
